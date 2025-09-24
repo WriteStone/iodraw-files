@@ -49,9 +49,9 @@
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="225" as="sourcePoint" />
-            <mxPoint x="229" y="214" as="targetPoint" />
+            <mxPoint x="194" y="214" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="231" y="344" />
+              <mxPoint x="194" y="344" />
             </Array>
           </mxGeometry>
         </mxCell>
