@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-2" value="内容切割，挑选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="21" y="38" width="126" height="44" as="geometry" />
+          <mxGeometry x="21" y="44" width="126" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-4" target="Xi0_Tbjr-D8x21hn3I5F-5">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-4" value="提取结构化信息并针对语义进行分类，过滤非敏感信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-3.5" y="139" width="175" height="54" as="geometry" />
+          <mxGeometry x="-3.25" y="121" width="175" height="54" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-5" target="Xi0_Tbjr-D8x21hn3I5F-6">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-5" value="推断用户使用场景，生成符合法规与场景需求的隐私声明内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-7.5" y="239" width="183" height="41" as="geometry" />
+          <mxGeometry x="-7.5" y="228" width="183" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-6" target="Xi0_Tbjr-D8x21hn3I5F-7">
           <mxGeometry relative="1" as="geometry" />
