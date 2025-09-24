@@ -7,8 +7,8 @@
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-1" value="数据流图，关联权限信息，隐私数据，隐私api使用信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-39" width="181" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Xi0_Tbjr-D8x21hn3I5F-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="63" width="120" height="60" as="geometry" />
+        <mxCell id="Xi0_Tbjr-D8x21hn3I5F-2" value="内容切割，挑选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="63" width="126" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
