@@ -34,6 +34,11 @@
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="85.2000732421875" y="202.4000244140625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="208" y="346" />
+              <mxPoint x="208" y="218" />
+              <mxPoint x="85" y="218" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-6" value="校验生成内容" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -49,7 +54,7 @@
           <mxGeometry x="75" y="381" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-18" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="216" y="271" width="60" height="30" as="geometry" />
+          <mxGeometry x="198" y="269" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
