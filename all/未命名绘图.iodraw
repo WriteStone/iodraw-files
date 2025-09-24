@@ -28,15 +28,6 @@
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-5" value="推断用户使用场景，生成符合法规与场景需求的隐私声明内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-7.5" y="239" width="183" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Xi0_Tbjr-D8x21hn3I5F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="82" y="218" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="204" y="346" />
-              <mxPoint x="204" y="214" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Xi0_Tbjr-D8x21hn3I5F-6" value="校验生成内容" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="22.5" y="311" width="123" height="70" as="geometry" />
         </mxCell>
@@ -52,10 +43,13 @@
             <mxPoint x="225" y="175" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xi0_Tbjr-D8x21hn3I5F-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Xi0_Tbjr-D8x21hn3I5F-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xi0_Tbjr-D8x21hn3I5F-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="225" as="sourcePoint" />
             <mxPoint x="225" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="356" y="326" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
