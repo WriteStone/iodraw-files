@@ -96,7 +96,7 @@
           <mxGeometry x="665.0000122070312" y="362.0000366210937" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-11" value="LLM分析比对数据库信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="671" y="249" width="149" height="26" as="geometry" />
+          <mxGeometry x="599" y="159" width="149" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
