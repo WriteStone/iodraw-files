@@ -67,7 +67,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-1" value="源码" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="30" y="204" width="114" height="69" as="geometry" />
+          <mxGeometry x="42" y="201.35" width="114" height="69" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y2lcXhS4S_LRVdd4xk0d-2" target="Y2lcXhS4S_LRVdd4xk0d-7">
           <mxGeometry relative="1" as="geometry" />
@@ -104,9 +104,6 @@
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-14" value="数据流图，分片后的源码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="236" y="331" width="150" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="361" y="485" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
