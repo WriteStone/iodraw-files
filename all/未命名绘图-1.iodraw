@@ -92,6 +92,9 @@
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-7" value="数据流图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="534" y="208.63" width="98" height="62.37" as="geometry" />
         </mxCell>
+        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2lcXhS4S_LRVdd4xk0d-10" target="Y2lcXhS4S_LRVdd4xk0d-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-10" value="隐私api及其关联权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="646.0000122070312" y="329.0000366210937" width="120" height="60" as="geometry" />
         </mxCell>
@@ -99,7 +102,7 @@
           <mxGeometry x="603" y="162" width="125" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="331" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
