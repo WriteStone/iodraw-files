@@ -95,8 +95,8 @@
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="646.0000122070312" y="329.0000366210937" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-11" value="LLM分析比对数据库信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="591" y="162" width="149" height="26" as="geometry" />
+        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-11" value="通过LLM遍历数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="603" y="162" width="125" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
