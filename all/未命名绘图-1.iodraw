@@ -84,7 +84,7 @@
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-4" value="分片后的代码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="208" width="98" height="59.75" as="geometry" />
         </mxCell>
-        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-7" value="LLM数据流分析引擎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-7" value="数据流图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="534" y="208.63" width="98" height="62.37" as="geometry" />
         </mxCell>
       </root>
