@@ -72,22 +72,11 @@
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y2lcXhS4S_LRVdd4xk0d-2" target="Y2lcXhS4S_LRVdd4xk0d-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2lcXhS4S_LRVdd4xk0d-2" target="Y2lcXhS4S_LRVdd4xk0d-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-2" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="212" y="208.38" width="100" height="60.25" as="geometry" />
         </mxCell>
-        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2lcXhS4S_LRVdd4xk0d-4" target="Y2lcXhS4S_LRVdd4xk0d-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-4" value="分片后的代码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="370" y="208" width="98" height="59.75" as="geometry" />
-        </mxCell>
-        <mxCell id="Y2lcXhS4S_LRVdd4xk0d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y2lcXhS4S_LRVdd4xk0d-7" target="Y2lcXhS4S_LRVdd4xk0d-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="721.2000122070312" y="469.60003662109375" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-7" value="数据流图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="534" y="208.63" width="98" height="62.37" as="geometry" />
@@ -96,7 +85,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-10" value="隐私api及其关联权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="565.0000122070312" y="435.0000366210937" width="120" height="60" as="geometry" />
+          <mxGeometry x="460.0000122070312" y="331.0000366210937" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-11" value="通过LLM遍历数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="603" y="162" width="125" height="26" as="geometry" />
