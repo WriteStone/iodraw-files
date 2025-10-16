@@ -94,10 +94,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-10" value="隐私api及其关联权限" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="457.0000122070312" y="322.0000366210937" width="120" height="60" as="geometry" />
+          <mxGeometry x="443.0000122070312" y="322.0000366210937" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-11" value="通过LLM遍历数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="523" y="281" width="125" height="26" as="geometry" />
+          <mxGeometry x="513" y="282" width="125" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Y2lcXhS4S_LRVdd4xk0d-12" value="隐私数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="44" y="322" width="120" height="60" as="geometry" />
