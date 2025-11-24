@@ -122,7 +122,7 @@
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-2" value="代码隐私感知模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="314" width="82" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="1y2hPBWA97Vdn4tMAmTb-5" value="数据流图&lt;div&gt;敏感权限信息&lt;/div&gt;&lt;div&gt;隐私api描述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-5" value="数据流图&lt;div&gt;敏感权限&lt;/div&gt;&lt;div&gt;隐私api描述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
