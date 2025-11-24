@@ -146,11 +146,17 @@
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.402;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1y2hPBWA97Vdn4tMAmTb-7" target="1y2hPBWA97Vdn4tMAmTb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y2hPBWA97Vdn4tMAmTb-15" target="1y2hPBWA97Vdn4tMAmTb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-15" value="推断用户场景，使用目的，根据模板生成隐私声明" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="651" y="309" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="596" y="425" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="311" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
