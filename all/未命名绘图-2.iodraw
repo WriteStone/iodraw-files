@@ -128,7 +128,7 @@
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-5" value="数据流&lt;div&gt;隐私数据&lt;br&gt;&lt;div&gt;敏感权限&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1y2hPBWA97Vdn4tMAmTb-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-7" value="静态代码&lt;div&gt;api相关描述&lt;/div&gt;&lt;div&gt;app功能描述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="216" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-9" value="MiniCPM-4B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
