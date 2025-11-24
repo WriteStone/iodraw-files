@@ -113,8 +113,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1y2hPBWA97Vdn4tMAmTb-1" value="源码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="46" y="313" width="120" height="60" as="geometry" />
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-1" value="源码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="46" y="313" width="82" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="296" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
