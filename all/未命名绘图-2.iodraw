@@ -134,6 +134,9 @@
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-7" value="静态代码&lt;div&gt;api相关描述&lt;/div&gt;&lt;div&gt;app功能描述&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307" y="216" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1y2hPBWA97Vdn4tMAmTb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1y2hPBWA97Vdn4tMAmTb-11" target="1y2hPBWA97Vdn4tMAmTb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="487" y="301" width="120" height="60" as="geometry" />
         </mxCell>
@@ -144,7 +147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1y2hPBWA97Vdn4tMAmTb-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="296" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="296" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
