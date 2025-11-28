@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-1" value="&amp;nbsp;输入: .ets 源文件&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="29" width="120" height="59" as="geometry" />
+          <mxGeometry x="280" y="29" width="120" height="43" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jBOTfz-4k2ee_rvfsn4u-2" target="jBOTfz-4k2ee_rvfsn4u-7">
           <mxGeometry relative="1" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="275.5" y="137" width="129" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-7" value="识别组件/类&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="179" y="247" width="120" height="58" as="geometry" />
+          <mxGeometry x="179" y="247" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-8" value="识别函数&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="249" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="249" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.525;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jBOTfz-4k2ee_rvfsn4u-2" target="jBOTfz-4k2ee_rvfsn4u-8">
           <mxGeometry relative="1" as="geometry" />
