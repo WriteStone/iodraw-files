@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-2" value="ts-morph 解析为 SourceFile&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="289" y="175" width="129" height="55" as="geometry" />
+          <mxGeometry x="269" y="175" width="129" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-7" value="识别组件/类&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-8" value="识别函数&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="382" y="271" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="273" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.525;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jBOTfz-4k2ee_rvfsn4u-2" target="jBOTfz-4k2ee_rvfsn4u-8">
           <mxGeometry relative="1" as="geometry" />
