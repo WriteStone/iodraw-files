@@ -17,7 +17,7 @@
           <mxGeometry x="269" y="175" width="129" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-7" value="识别组件/类&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="178" y="273" width="120" height="60" as="geometry" />
+          <mxGeometry x="178" y="273" width="120" height="58" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-8" value="识别函数&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="273" width="120" height="60" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="386" width="243" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="jBOTfz-4k2ee_rvfsn4u-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.286;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jBOTfz-4k2ee_rvfsn4u-7" target="jBOTfz-4k2ee_rvfsn4u-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
