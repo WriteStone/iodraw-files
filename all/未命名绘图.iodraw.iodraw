@@ -10,10 +10,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-1" value="&amp;nbsp;输入: .ets 源文件&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="156" y="116" width="120" height="59" as="geometry" />
+          <mxGeometry x="146" y="125" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="jBOTfz-4k2ee_rvfsn4u-2" value="ts-morph 解析为 SourceFile&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="156" y="217" width="120" height="50" as="geometry" />
+          <mxGeometry x="154" y="218" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
