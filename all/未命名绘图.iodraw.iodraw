@@ -43,7 +43,7 @@
             <mxPoint x="424" y="-460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--23" value="接入层" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JdTlLx0iWqaibpSFTsL--23" value="接入层" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-159.5" y="-451.25" width="114.5" height="34.25" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--25" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,8 +55,8 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--28" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="-446" width="129" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--29" value="对外能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-165" y="-327" width="113" height="37" as="geometry" />
+        <mxCell id="JdTlLx0iWqaibpSFTsL--29" value="对外能力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="-349" width="106" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-29" y="-405" width="106" height="154" as="geometry" />
