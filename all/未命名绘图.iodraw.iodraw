@@ -77,10 +77,10 @@
           <mxGeometry x="-6" y="-395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="84" y="-405" width="106" height="149" as="geometry" />
+          <mxGeometry x="84" y="-405" width="114" height="155" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--39" value="钱包账户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="115" y="-385" width="69" height="20" as="geometry" />
+          <mxGeometry x="115" y="-390" width="69" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--40" value="b币支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="-360.5" width="86" height="22.5" as="geometry" />
