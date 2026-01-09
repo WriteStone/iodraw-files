@@ -68,7 +68,7 @@
           <mxGeometry x="-21.25" y="-337" width="81.25" height="18" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--35" value="paypal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-7.120000000000001" y="-303" width="76.5" height="26" as="geometry" />
+          <mxGeometry x="-21.25" y="-312" width="84.25" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--36" value="银行卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-6.120000000000001" y="-270" width="77.25" height="28" as="geometry" />
