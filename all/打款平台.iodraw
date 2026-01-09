@@ -216,6 +216,9 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-1" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="11.5" width="159" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="_i6eehOWjBYKWhtN5ndL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-2" target="ZVIegl60CmivWtuJMpQw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-2" value="加分布式锁（根据业务订单号和客户ID），防止多次创建提现订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="512" y="7" width="161" height="57" as="geometry" />
         </mxCell>
@@ -229,7 +232,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-6" value="构造请求上下文：将API层对象转换为业务层上下文对象，对敏感数据进行解密，组装扩展信息和风控参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="774" y="4" width="164" height="69" as="geometry" />
+          <mxGeometry x="772" y="1" width="164" height="69" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-12" edge="1">
           <mxGeometry relative="1" as="geometry">
