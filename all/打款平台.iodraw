@@ -262,7 +262,7 @@
           <mxGeometry x="281.5" y="122" width="179" height="68" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-34" value="以对私打款处理器举例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="538.75" y="256" width="72.5" height="29" as="geometry" />
+          <mxGeometry x="501" y="124" width="72.5" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-35" target="ZVIegl60CmivWtuJMpQw-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -283,7 +283,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-42" value="查询是否绑定个人信息" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="819" y="256" width="144" height="86" as="geometry" />
+          <mxGeometry x="858" y="113" width="144" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-46" value="抛出异常" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1007" y="269" width="120" height="60" as="geometry" />
