@@ -303,7 +303,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-42" value="查询是否绑定个人信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="546" width="144" height="86" as="geometry" />
+          <mxGeometry x="428" y="542" width="144" height="86" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-46" value="抛出异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="636" y="559" width="120" height="60" as="geometry" />
