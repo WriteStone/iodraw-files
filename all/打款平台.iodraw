@@ -214,7 +214,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-1" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="81" y="112" width="159" height="48" as="geometry" />
+          <mxGeometry x="279" y="44" width="159" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-2" target="ZVIegl60CmivWtuJMpQw-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
