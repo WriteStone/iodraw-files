@@ -219,6 +219,9 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-1" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91.5" y="120" width="137" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-2" target="ZVIegl60CmivWtuJMpQw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-2" value="加分布式锁，防止多次创建提现订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90.5" y="200" width="139" height="43" as="geometry" />
         </mxCell>
@@ -229,7 +232,7 @@
           <mxGeometry x="100" y="14" width="120" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-6" value="构造请求上下文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="285" width="142" height="60" as="geometry" />
+          <mxGeometry x="89" y="285" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-7" value="将API层对象转换为业务层上下文对象，对敏感数据进行解密，组装扩展信息和风控参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="291" width="136" height="72" as="geometry" />
