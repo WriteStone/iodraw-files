@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--23" value="接入层" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="-451.25" width="115" height="33.25" as="geometry" />
+          <mxGeometry x="-157" y="-445" width="112" height="27" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--25" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-34" y="-446.5" width="133" height="28.5" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="334.13" y="-365" width="64" height="27" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--57" value="交易报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="332.25" y="-327" width="71" height="30" as="geometry" />
+          <mxGeometry x="334.13" y="-329" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--58" value="钱包管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333.75" y="-292" width="68.25" height="31" as="geometry" />
+          <mxGeometry x="336.88" y="-292" width="68.25" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
