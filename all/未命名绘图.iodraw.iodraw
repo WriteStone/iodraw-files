@@ -197,10 +197,10 @@
           <mxGeometry x="63" y="13" width="74" height="24" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--92" value="三方提现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="156" y="12" width="83" height="33" as="geometry" />
+          <mxGeometry x="148.5" y="13" width="77" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--93" value="快捷支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="8" width="94" height="35" as="geometry" />
+          <mxGeometry x="248.88" y="11.5" width="86.12" height="26.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
