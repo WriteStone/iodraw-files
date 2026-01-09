@@ -343,7 +343,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-73" value="检查是否是同步请求" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="233" y="1267" width="125" height="80" as="geometry" />
+          <mxGeometry x="488" y="820" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-75" value="异步定时检查处理打款需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="246" y="1400" width="120" height="60" as="geometry" />
