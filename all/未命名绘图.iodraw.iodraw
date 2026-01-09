@@ -106,8 +106,11 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--50" value="贝壳转入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="-360" width="69" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="-324" width="120" height="60" as="geometry" />
+        <mxCell id="JdTlLx0iWqaibpSFTsL--51" value="贝壳提现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="-324" width="71" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="-357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
