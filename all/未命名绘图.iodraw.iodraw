@@ -89,10 +89,10 @@
           <mxGeometry x="121" y="-333" width="82" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--42" value="b币券发放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="-299" width="80" height="22" as="geometry" />
+          <mxGeometry x="122" y="-302" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--43" value="b币券消费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="-270" width="87" height="23" as="geometry" />
+          <mxGeometry x="121" y="-273" width="87" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="-393" width="120" height="60" as="geometry" />
