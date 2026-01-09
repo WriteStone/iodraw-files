@@ -59,10 +59,10 @@
           <mxGeometry x="-160" y="-379" width="113" height="37" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2" y="-383" width="123" height="155" as="geometry" />
+          <mxGeometry x="-29" y="-393" width="123" height="155" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--32" value="支付宝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18.75" y="-346" width="74.5" height="18" as="geometry" />
+          <mxGeometry x="-11" y="-352" width="74.5" height="18" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--34" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="18.75" y="-320" width="75.25" height="19" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="18.75" y="-264" width="77.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--37" value="收银台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="24" y="-379" width="60" height="30" as="geometry" />
+          <mxGeometry x="-6" y="-390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="146" y="-383" width="125" height="156" as="geometry" />
