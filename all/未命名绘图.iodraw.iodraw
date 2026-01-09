@@ -20,16 +20,10 @@
           <mxGeometry x="180" y="130" width="412" height="291" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-41" y="-502" width="535" height="301" as="geometry" />
+          <mxGeometry x="22" y="-542" width="535" height="301" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-174" y="-502" width="126" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdTlLx0iWqaibpSFTsL--15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="144" y="-302" as="sourcePoint" />
-            <mxPoint x="194" y="-352" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
