@@ -62,13 +62,13 @@
           <mxGeometry x="-29" y="-393" width="123" height="155" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--32" value="支付宝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-11" y="-352" width="74.5" height="18" as="geometry" />
+          <mxGeometry x="-11" y="-352" width="83" height="14" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--34" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18.75" y="-320" width="75.25" height="19" as="geometry" />
+          <mxGeometry x="-7.120000000000001" y="-325" width="75.25" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--35" value="paypal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="18.75" y="-294" width="76.5" height="26" as="geometry" />
+          <mxGeometry x="-7.120000000000001" y="-303" width="76.5" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--36" value="银行卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="18.75" y="-264" width="77.25" height="28" as="geometry" />
