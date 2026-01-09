@@ -245,6 +245,9 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-7" value="将API层对象转换为业务层上下文对象，对敏感数据进行解密，组装扩展信息和风控参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="283" width="137" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="275" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
