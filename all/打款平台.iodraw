@@ -222,8 +222,11 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-2" value="加分布式锁（根据业务订单号和客户ID），防止多次创建提现订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="189" width="161" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="_i6eehOWjBYKWhtN5ndL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-3" target="ZVIegl60CmivWtuJMpQw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-3" value="PaymentReqVO reqV0" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="92.5" y="8" width="136" height="55" as="geometry" />
+          <mxGeometry x="92.5" y="8" width="143.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-6" target="ZVIegl60CmivWtuJMpQw-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
