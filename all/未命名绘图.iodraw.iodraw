@@ -101,13 +101,13 @@
           <mxGeometry x="244" y="-382" width="66" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--50" value="贝壳转入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="-360" width="69" height="29" as="geometry" />
+          <mxGeometry x="224" y="-359.5" width="69" height="29" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--51" value="贝壳提现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="-324" width="71" height="26" as="geometry" />
+          <mxGeometry x="225" y="-319" width="71" height="26" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--52" value="审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241" y="-287" width="72" height="25" as="geometry" />
+          <mxGeometry x="224" y="-283" width="72" height="25" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="-390" width="76" height="152" as="geometry" />
