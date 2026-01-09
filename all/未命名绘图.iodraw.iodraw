@@ -23,7 +23,7 @@
           <mxGeometry x="-40" y="-507" width="535" height="301" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-169" y="-504" width="120" height="39" as="geometry" />
+          <mxGeometry x="-157" y="-504" width="108" height="36" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--18" value="直播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-36" y="-504.5" width="112" height="37.5" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="84" y="-504" width="102" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--21" value="电商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-504" width="109" height="36" as="geometry" />
+          <mxGeometry x="310" y="-503" width="109" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
