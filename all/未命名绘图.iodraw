@@ -250,6 +250,11 @@
             <mxPoint x="515.5" y="427" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-12" target="ZVIegl60CmivWtuJMpQw-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-12" value="检查付款参数" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="462" y="275" width="107" height="80" as="geometry" />
         </mxCell>
@@ -258,6 +263,9 @@
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-23" value="查询历史订单，将历史订单信息放入context中，保证幂等性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447" y="428" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
