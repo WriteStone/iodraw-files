@@ -428,7 +428,7 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-96" value="调用渠道方发起打款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="1951" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVIegl60CmivWtuJMpQw-99" value="同步状态更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="2059" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
