@@ -68,7 +68,7 @@
           <mxGeometry x="18.75" y="-383" width="68" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--34" value="微信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="-309" width="67" height="29" as="geometry" />
+          <mxGeometry x="18.75" y="-320" width="75.25" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--35" value="paypal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="19.5" y="-271" width="75.5" height="28" as="geometry" />
