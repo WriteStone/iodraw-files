@@ -130,8 +130,11 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--65" value="支付单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-14.5" y="-218" width="94" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JdTlLx0iWqaibpSFTsL--66" value="退款单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="88.5" y="-215" width="98" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--67" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="-357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
