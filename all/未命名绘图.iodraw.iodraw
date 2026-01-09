@@ -53,7 +53,7 @@
           <mxGeometry x="119" y="-446.5" width="139" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--28" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="-447" width="128" height="29" as="geometry" />
+          <mxGeometry x="285" y="-446" width="129" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--29" value="对外能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-327" width="113" height="37" as="geometry" />
@@ -123,6 +123,9 @@
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--58" value="钱包管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.75" y="-292" width="68.25" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--59" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-342" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
