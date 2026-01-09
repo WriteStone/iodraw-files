@@ -20,7 +20,7 @@
           <mxGeometry x="180" y="130" width="412" height="291" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="-507" width="465" height="395" as="geometry" />
+          <mxGeometry x="-39" y="-507" width="466" height="475" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-166" y="-504" width="121" height="39" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--68" value="发券记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322.26" y="-214" width="82.87" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-27.5" y="-169" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
