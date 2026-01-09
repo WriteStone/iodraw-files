@@ -140,7 +140,7 @@
           <mxGeometry x="322.26" y="-214" width="82.87" height="27" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-27.5" y="-169" width="438.5" height="53" as="geometry" />
+          <mxGeometry x="-27.5" y="-169" width="440.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--70" value="风控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="158.5" y="-166" width="61.5" height="21" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="127" y="-142" width="93" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--73" value="黑名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251" y="-143" width="108" height="21" as="geometry" />
+          <mxGeometry x="258" y="-144" width="108" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
