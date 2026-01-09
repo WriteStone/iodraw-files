@@ -136,7 +136,7 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--67" value="提现单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="-214" width="116.75" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JdTlLx0iWqaibpSFTsL--68" value="发券记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="322.26" y="-214" width="82.87" height="27" as="geometry" />
         </mxCell>
       </root>
