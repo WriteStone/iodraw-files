@@ -319,6 +319,9 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-52" value="风控验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458" y="693" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-53" target="ZVIegl60CmivWtuJMpQw-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-53" value="构造数据库DO，计税，扣减限额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="818" width="120" height="60" as="geometry" />
         </mxCell>
@@ -332,7 +335,7 @@
           <mxGeometry x="545" y="699" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="663" width="120" height="60" as="geometry" />
+          <mxGeometry x="438" y="921" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
