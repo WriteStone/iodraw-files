@@ -29,13 +29,13 @@
           <mxGeometry x="-36" y="-504.5" width="112" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--19" value="大会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212" y="-504" width="111" height="39" as="geometry" />
+          <mxGeometry x="198" y="-503.25" width="107" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--20" value="漫画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="-504" width="102" height="38" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--21" value="电商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-504" width="112" height="38" as="geometry" />
+          <mxGeometry x="330" y="-504" width="109" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
