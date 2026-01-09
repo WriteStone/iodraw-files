@@ -28,11 +28,14 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--18" value="直播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-36" y="-504.5" width="124" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JdTlLx0iWqaibpSFTsL--19" value="大会员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="-502" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--20" value="漫画" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="-502" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="-357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
