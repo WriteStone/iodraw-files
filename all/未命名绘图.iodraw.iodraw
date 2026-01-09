@@ -178,6 +178,9 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--85" value="账务管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="221.5" y="-169" width="70.5" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--86" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="-142" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
