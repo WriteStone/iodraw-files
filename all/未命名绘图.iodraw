@@ -283,14 +283,11 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-36" value="进行数据格式转换并返回" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236" y="686" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-35" target="ZVIegl60CmivWtuJMpQw-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="358.25" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-41" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="285.25" y="644" width="60" height="30" as="geometry" />
+          <mxGeometry x="296" y="647" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-42" target="ZVIegl60CmivWtuJMpQw-46">
           <mxGeometry relative="1" as="geometry" />
@@ -339,6 +336,9 @@
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-63" value="存入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="921" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-35" target="ZVIegl60CmivWtuJMpQw-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
