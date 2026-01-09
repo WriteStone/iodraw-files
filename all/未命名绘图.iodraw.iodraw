@@ -194,7 +194,7 @@
           <mxGeometry x="-22" y="14" width="76" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--91" value="三方代扣" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63" y="10" width="78" height="31" as="geometry" />
+          <mxGeometry x="63" y="13" width="74" height="24" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--92" value="三方提现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="156" y="12" width="83" height="33" as="geometry" />
