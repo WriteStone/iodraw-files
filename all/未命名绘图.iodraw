@@ -274,7 +274,10 @@
           <mxGeometry x="565" y="277" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-29" value="paymentProcessorManager会根据请求类型选择对应类型的处理器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="422" width="179" height="68" as="geometry" />
+          <mxGeometry x="200" y="424" width="179" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="341" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
