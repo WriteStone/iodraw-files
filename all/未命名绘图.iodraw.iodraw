@@ -179,10 +179,10 @@
           <mxGeometry x="314.25" y="-166" width="70.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--86" value="内部对账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.75" y="-137" width="77.5" height="23" as="geometry" />
+          <mxGeometry x="312.75" y="-137" width="81.25" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--87" value="外部对账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="308.25" y="-106" width="83.75" height="23" as="geometry" />
+          <mxGeometry x="310.25" y="-105" width="83.75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--88" value="财务报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310.06" y="-74" width="83.94" height="22" as="geometry" />
