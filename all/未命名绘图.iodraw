@@ -323,7 +323,7 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-52" value="风控验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="691" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVIegl60CmivWtuJMpQw-53" value="构造数据库DO，计税，扣减限额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="443" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-55" value="走拒绝逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
