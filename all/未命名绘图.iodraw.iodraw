@@ -23,7 +23,7 @@
           <mxGeometry x="-39" y="-507" width="465" height="395" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-159" y="-504" width="114" height="37" as="geometry" />
+          <mxGeometry x="-166" y="-504" width="121" height="39" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--18" value="直播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-36" y="-504.5" width="112" height="37.5" as="geometry" />
@@ -36,12 +36,6 @@
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--21" value="电商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="-503" width="109" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.004;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JdTlLx0iWqaibpSFTsL--14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-36.002000000000045" y="-465.998" as="sourcePoint" />
-            <mxPoint x="424" y="-460" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--23" value="接入层" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-163" y="-446" width="118" height="28" as="geometry" />
