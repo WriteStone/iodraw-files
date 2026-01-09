@@ -22,7 +22,7 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-39" y="-507" width="462" height="324" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-507" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--18" value="直播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
