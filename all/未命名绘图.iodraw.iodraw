@@ -80,7 +80,7 @@
           <mxGeometry x="146" y="-383" width="125" height="156" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--39" value="钱包账户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="174" y="-372" width="60" height="30" as="geometry" />
+          <mxGeometry x="174" y="-377" width="69" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
