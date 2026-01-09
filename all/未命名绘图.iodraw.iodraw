@@ -182,10 +182,10 @@
           <mxGeometry x="305" y="-141" width="96.75" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--87" value="外部对账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="-109" width="101.25" height="16" as="geometry" />
+          <mxGeometry x="305" y="-109" width="99" height="16" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--88" value="财务报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318" y="-72" width="83.94" height="22" as="geometry" />
+          <mxGeometry x="305" y="-77" width="94.48" height="22" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--89" value="支付渠道对接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132" y="-22" width="74" height="17" as="geometry" />
