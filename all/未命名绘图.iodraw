@@ -277,6 +277,10 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="429" y="589" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="587" />
+              <mxPoint x="400" y="590" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-35" value="检查历史订单是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -289,7 +293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="361" y="559" width="60" height="30" as="geometry" />
+          <mxGeometry x="358.25" y="542" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-41" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285.25" y="644" width="60" height="30" as="geometry" />
