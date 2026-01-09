@@ -276,9 +276,6 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="765" y="263" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-41" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="296" y="647" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-42" target="ZVIegl60CmivWtuJMpQw-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -334,7 +331,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-70" value="PaymentResDTO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="226" y="811" width="120" height="80" as="geometry" />
+          <mxGeometry x="235.5" y="716" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-36" target="ZVIegl60CmivWtuJMpQw-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
