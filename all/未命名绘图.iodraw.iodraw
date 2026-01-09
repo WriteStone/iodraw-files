@@ -22,9 +22,6 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-507" width="462" height="324" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JdTlLx0iWqaibpSFTsL--15" target="JdTlLx0iWqaibpSFTsL--23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-157" y="-504" width="108" height="36" as="geometry" />
         </mxCell>
