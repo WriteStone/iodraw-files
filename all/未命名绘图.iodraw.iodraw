@@ -50,10 +50,10 @@
           <mxGeometry x="-34" y="-446.5" width="133" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--26" value="SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-446.5" width="139" height="28.5" as="geometry" />
+          <mxGeometry x="119" y="-446.5" width="139" height="28.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--28" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="-451" width="120" height="42" as="geometry" />
+          <mxGeometry x="281" y="-451" width="135" height="35" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--29" value="对外能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="-327" width="113" height="37" as="geometry" />
