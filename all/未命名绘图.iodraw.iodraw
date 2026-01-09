@@ -95,7 +95,7 @@
           <mxGeometry x="100" y="-272" width="86" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-391" width="88" height="151" as="geometry" />
+          <mxGeometry x="212" y="-393" width="88" height="151" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--49" value="贝壳" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="244" y="-382" width="66" height="19" as="geometry" />
@@ -111,9 +111,6 @@
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="-390" width="76" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdTlLx0iWqaibpSFTsL--45" target="JdTlLx0iWqaibpSFTsL--45">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
