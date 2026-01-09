@@ -243,7 +243,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-12" value="检查付款参数" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="328" y="277.5" width="107" height="80" as="geometry" />
+          <mxGeometry x="110.75" y="113" width="107" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-16" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="456" y="368" width="60" height="30" as="geometry" />
@@ -255,7 +255,7 @@
           <mxGeometry x="447" y="428" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-26" value="抛出异常" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="578" y="287.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="613" y="123" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-28" value="不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="479" y="284" width="60" height="30" as="geometry" />
