@@ -345,6 +345,9 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-73" value="检查是否是同步请求" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="415" y="574" width="125" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="_i6eehOWjBYKWhtN5ndL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-75" target="ZVIegl60CmivWtuJMpQw-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-75" value="异步定时检查处理打款需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="55" y="733" width="120" height="60" as="geometry" />
         </mxCell>
@@ -361,10 +364,10 @@
           <mxGeometry x="652" y="574" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-82" value="subPaymentProcessorManager根据打款类型选择合适的处理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="853.75" y="707" width="201.5" height="73" as="geometry" />
+          <mxGeometry x="852" y="718" width="201.5" height="73" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-84" value="以对私打款处理器SuvPaymentTaskProcessor举例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="401" y="813" width="182" height="82" as="geometry" />
+          <mxGeometry x="398" y="796" width="182" height="82" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-89" target="ZVIegl60CmivWtuJMpQw-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -407,9 +410,6 @@
         </mxCell>
         <mxCell id="_i6eehOWjBYKWhtN5ndL-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="654" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_i6eehOWjBYKWhtN5ndL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.599;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-82" target="ZVIegl60CmivWtuJMpQw-84">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
