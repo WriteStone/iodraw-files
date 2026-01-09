@@ -264,7 +264,7 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-23" value="查询历史订单，将历史订单信息放入context中，保证幂等性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="447" y="428" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVIegl60CmivWtuJMpQw-26" value="抛出异常" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="632" y="283" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
