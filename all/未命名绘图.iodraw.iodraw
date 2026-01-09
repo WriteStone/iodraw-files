@@ -86,16 +86,19 @@
           <mxGeometry x="134" y="-360" width="77" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--41" value="b币充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="148" y="-326" width="82" height="21" as="geometry" />
+          <mxGeometry x="134" y="-329" width="82" height="21" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--42" value="b币券发放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="148" y="-295" width="80" height="22" as="geometry" />
+          <mxGeometry x="134" y="-299" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--43" value="b币券消费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="-265" width="87" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="-393" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.663;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JdTlLx0iWqaibpSFTsL--42" target="JdTlLx0iWqaibpSFTsL--42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
