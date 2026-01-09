@@ -352,8 +352,8 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-72" value="RequestContext&lt;div&gt;context&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="1267" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-73" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233" y="1267" width="80" height="80" as="geometry" />
+        <mxCell id="ZVIegl60CmivWtuJMpQw-73" value="检查是否" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="1267" width="125" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
