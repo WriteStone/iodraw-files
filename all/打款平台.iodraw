@@ -292,7 +292,7 @@
           <mxGeometry x="1016" y="126" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-51" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="645" y="362" width="60" height="30" as="geometry" />
+          <mxGeometry x="576" y="367" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-52" target="ZVIegl60CmivWtuJMpQw-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -313,7 +313,7 @@
           <mxGeometry x="963" y="292" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-56" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="561.87" y="644" width="60" height="30" as="geometry" />
+          <mxGeometry x="993" y="531" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-58" value="不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="771" y="290" width="60" height="30" as="geometry" />
