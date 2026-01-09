@@ -10,6 +10,9 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--3" value="核心服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JdTlLx0iWqaibpSFTsL--2">
           <mxGeometry x="2" y="4" width="145" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JdTlLx0iWqaibpSFTsL--2">
+          <mxGeometry x="174" y="9" width="321" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
