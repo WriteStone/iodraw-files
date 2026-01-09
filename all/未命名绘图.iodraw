@@ -229,7 +229,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-3" value="PaymentReqVO reqV0" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="87" y="12" width="136" height="55" as="geometry" />
+          <mxGeometry x="92.5" y="8" width="136" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-6" target="ZVIegl60CmivWtuJMpQw-12">
           <mxGeometry relative="1" as="geometry" />
