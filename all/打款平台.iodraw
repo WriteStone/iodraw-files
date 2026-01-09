@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_YuWhwBxSnsFxXgvW-gS" name="第 2 页">
-    <mxGraphModel dx="1674" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="1996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,7 +238,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-12" value="检查付款参数" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110.75" y="113" width="107" height="80" as="geometry" />
+          <mxGeometry x="1041" y="-4.5" width="107" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-16" value="通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="166" y="217" width="60" height="30" as="geometry" />
