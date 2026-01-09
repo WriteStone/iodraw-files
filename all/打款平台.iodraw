@@ -268,7 +268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-35" value="检查历史订单是否存在" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="621.87" y="247" width="138.25" height="104" as="geometry" />
+          <mxGeometry x="609" y="104" width="138.25" height="104" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-36" value="进行数据格式转换并返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="274" y="386" width="120" height="59" as="geometry" />
