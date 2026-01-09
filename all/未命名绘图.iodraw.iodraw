@@ -148,11 +148,14 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--71" value="支付风控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-17" y="-143" width="96" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="JdTlLx0iWqaibpSFTsL--72" target="JdTlLx0iWqaibpSFTsL--69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--72" value="业务平台风控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="91" y="-143" width="93" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--73" value="黑名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="218" y="-143" width="110" height="24.5" as="geometry" />
+          <mxGeometry x="250" y="-143" width="110" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
