@@ -284,6 +284,9 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-34" value="以对私打款处理器举例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="500" width="72.5" height="29" as="geometry" />
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-35" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249.5" y="537" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
