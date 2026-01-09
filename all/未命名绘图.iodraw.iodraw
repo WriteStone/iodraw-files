@@ -202,8 +202,8 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--93" value="快捷支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="242" y="12.25" width="86.12" height="26.5" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="-4.5" width="120" height="60" as="geometry" />
+        <mxCell id="JdTlLx0iWqaibpSFTsL--94" value="第三方信誉分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="17" width="57" height="38.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
