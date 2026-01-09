@@ -364,7 +364,7 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="246" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-76" value="通过queryPaymentcontext方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVIegl60CmivWtuJMpQw-76" value="通过queryPaymentcontext方法查询出执行打款操作所需的全部参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="1277" width="205" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-73" target="ZVIegl60CmivWtuJMpQw-75">
@@ -375,6 +375,9 @@
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-80" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298.25" y="1364" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="1426" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
