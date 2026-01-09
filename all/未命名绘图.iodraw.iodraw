@@ -182,10 +182,10 @@
           <mxGeometry x="318" y="-135" width="84.75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--87" value="外部对账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310.25" y="-105" width="83.75" height="23" as="geometry" />
+          <mxGeometry x="318.5" y="-104" width="83.75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--88" value="财务报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310.06" y="-74" width="83.94" height="22" as="geometry" />
+          <mxGeometry x="318" y="-72" width="83.94" height="22" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--89" value="支付渠道对接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132" y="-22" width="74" height="17" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry x="242" y="12.25" width="86.12" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--94" value="第三方信誉分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="9" width="64" height="33" as="geometry" />
+          <mxGeometry x="346" y="9" width="63" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
