@@ -20,7 +20,7 @@
           <mxGeometry x="180" y="130" width="412" height="291" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="-507" width="462" height="324" as="geometry" />
+          <mxGeometry x="-39" y="-507" width="462" height="324" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--15" value="业务方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-157" y="-504" width="108" height="36" as="geometry" />
@@ -125,6 +125,9 @@
           <mxGeometry x="333.75" y="-292" width="68.25" height="31" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--59" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-342" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--60" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="139" y="-342" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
