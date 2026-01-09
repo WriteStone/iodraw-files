@@ -364,7 +364,7 @@
           <mxGeometry x="652" y="574" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-82" value="subPaymentProcessorManager根据打款类型选择合适的处理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="852" y="718" width="201.5" height="73" as="geometry" />
+          <mxGeometry x="853.75" y="716" width="201.5" height="73" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-84" value="以对私打款处理器SuvPaymentTaskProcessor举例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="398" y="796" width="182" height="82" as="geometry" />
