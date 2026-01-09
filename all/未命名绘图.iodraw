@@ -352,14 +352,20 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-72" value="RequestContext&lt;div&gt;context&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="52" y="1267" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-73" target="ZVIegl60CmivWtuJMpQw-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-73" value="检查是否是同步请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="233" y="1267" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="238.25" y="1411" width="120" height="60" as="geometry" />
+          <mxGeometry x="246" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="1280" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="1277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.408;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-73" target="ZVIegl60CmivWtuJMpQw-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
