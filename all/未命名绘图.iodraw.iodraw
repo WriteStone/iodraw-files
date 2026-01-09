@@ -71,7 +71,7 @@
           <mxGeometry x="18.75" y="-320" width="75.25" height="19" as="geometry" />
         </mxCell>
         <mxCell id="JdTlLx0iWqaibpSFTsL--35" value="paypal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="19.5" y="-271" width="75.5" height="28" as="geometry" />
+          <mxGeometry x="18.75" y="-294" width="76.5" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
