@@ -121,6 +121,9 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--57" value="交易报表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="332.25" y="-327" width="71" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.75" y="-292" width="68.25" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
