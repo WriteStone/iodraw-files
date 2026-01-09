@@ -10,9 +10,6 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--3" value="核心服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="JdTlLx0iWqaibpSFTsL--2">
           <mxGeometry x="2" y="4" width="145" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;payment（）-创建订单并判断同步/异步执行（创建订单？？？）&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;verifyCard() -银行卡绑定验证&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;recover() &amp;nbsp; &amp;nbsp;-恢复打款&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;cacnel（）-取消订单&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;query（）/queryOrders() -订单查询&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JdTlLx0iWqaibpSFTsL--2">
-          <mxGeometry x="211" y="18" width="241" height="157" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
