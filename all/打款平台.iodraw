@@ -307,7 +307,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-53" value="构造数据库DO，计税，扣减限额" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="501" y="412" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="412" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-55" value="走拒绝逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="963" y="292" width="120" height="60" as="geometry" />
