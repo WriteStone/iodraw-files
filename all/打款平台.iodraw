@@ -400,7 +400,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-96" value="调用渠道方发起打款" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340.5" y="1762" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-99" value="同步状态更新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="313" y="2059" width="120" height="60" as="geometry" />
@@ -417,7 +417,7 @@
         <mxCell id="_i6eehOWjBYKWhtN5ndL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.665;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-82" target="ZVIegl60CmivWtuJMpQw-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_i6eehOWjBYKWhtN5ndL-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_i6eehOWjBYKWhtN5ndL-18" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="687.25" y="939" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
