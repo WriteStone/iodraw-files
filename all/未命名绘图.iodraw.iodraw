@@ -148,6 +148,12 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--71" value="支付风控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-17" y="-143" width="96" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--72" value="业务平台风控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="-143" width="93" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="JdTlLx0iWqaibpSFTsL--73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="-357" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
