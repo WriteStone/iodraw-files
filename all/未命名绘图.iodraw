@@ -314,8 +314,11 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-51" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="648" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="373" y="504" width="80" height="80" as="geometry" />
+        <mxCell id="ZVIegl60CmivWtuJMpQw-52" value="风控验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="691" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="514" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
