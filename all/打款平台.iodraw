@@ -403,7 +403,7 @@
           <mxGeometry x="42.5" y="1107" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-99" value="同步状态更新" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="313" y="2059" width="120" height="60" as="geometry" />
+          <mxGeometry x="678" y="1111" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_i6eehOWjBYKWhtN5ndL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-12" target="ZVIegl60CmivWtuJMpQw-23">
           <mxGeometry relative="1" as="geometry" />
