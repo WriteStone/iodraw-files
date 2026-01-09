@@ -220,7 +220,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-2" value="加分布式锁（根据业务订单号和客户ID），防止多次创建提现订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="8" width="161" height="57" as="geometry" />
+          <mxGeometry x="512" y="7" width="161" height="57" as="geometry" />
         </mxCell>
         <mxCell id="_i6eehOWjBYKWhtN5ndL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-3" target="ZVIegl60CmivWtuJMpQw-1">
           <mxGeometry relative="1" as="geometry" />
