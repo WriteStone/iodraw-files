@@ -294,8 +294,11 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-41" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="285.25" y="644" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZVIegl60CmivWtuJMpQw-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-42" target="ZVIegl60CmivWtuJMpQw-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-42" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="546" width="144" height="86" as="geometry" />
+          <mxGeometry x="427" y="548" width="144" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
