@@ -142,7 +142,7 @@
         <mxCell id="JdTlLx0iWqaibpSFTsL--69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-27.5" y="-169" width="438.5" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="JdTlLx0iWqaibpSFTsL--70" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JdTlLx0iWqaibpSFTsL--70" value="风控" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="158.5" y="-166" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
