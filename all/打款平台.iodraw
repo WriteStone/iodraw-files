@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_YuWhwBxSnsFxXgvW-gS" name="第 2 页">
-    <mxGraphModel dx="1674" dy="1996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="827" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,9 +215,6 @@
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-1" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="11.5" width="159" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-2" target="ZVIegl60CmivWtuJMpQw-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-2" value="加分布式锁（根据业务订单号和客户ID），防止多次创建提现订单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="512" y="7" width="161" height="57" as="geometry" />
@@ -232,7 +229,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-6" value="构造请求上下文：将API层对象转换为业务层上下文对象，对敏感数据进行解密，组装扩展信息和风控参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="782" width="162" height="85" as="geometry" />
+          <mxGeometry x="774" y="4" width="164" height="69" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-12" edge="1">
           <mxGeometry relative="1" as="geometry">
