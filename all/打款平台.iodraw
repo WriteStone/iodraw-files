@@ -553,6 +553,9 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-12" value="解析请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-188" y="514" width="139" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-13" target="DaG6iroj4ZgLgGwxmFwC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-13" value="检查接口调用状态，提取业务层响应参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-176.5" y="615" width="117.5" height="55" as="geometry" />
         </mxCell>
