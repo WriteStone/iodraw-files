@@ -439,7 +439,10 @@
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-2" value="Accesslayer(路由转发)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="322" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-3" value="cashier（收银台）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="424" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="398" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
