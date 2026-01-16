@@ -507,7 +507,7 @@
           <mxGeometry x="-387" y="621" width="117" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="根据渠道码构造银行的请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="60" width="128" height="61" as="geometry" />
+          <mxGeometry x="-165" y="58" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-9" value="以招商银行为例，调用channelClient.payment()方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165.25" y="182" width="144.5" height="61" as="geometry" />
