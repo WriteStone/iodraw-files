@@ -489,10 +489,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-1" value="PaymentSubOrder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-513" y="121" width="120" height="80" as="geometry" />
+          <mxGeometry x="-403" y="54" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-2" value="通过getPaymentSubOrder()方法构造子订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-516" y="267" width="143" height="75" as="geometry" />
+          <mxGeometry x="-403" y="181" width="143" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
