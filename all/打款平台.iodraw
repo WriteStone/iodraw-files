@@ -504,7 +504,7 @@
           <mxGeometry x="-387" y="519" width="118" height="54" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-7" value="获取渠道码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="621" width="123" height="58" as="geometry" />
+          <mxGeometry x="-387" y="621" width="117" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="根据渠道码构造银行的请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153" y="60" width="128" height="61" as="geometry" />
@@ -522,7 +522,7 @@
           <mxGeometry x="-156" y="528" width="119" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-13" value="检查接口调用状态，提取业务层响应参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-159.5" y="634" width="120" height="60" as="geometry" />
+          <mxGeometry x="-159.5" y="626" width="117.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-14" value="构造ChannelResult格式数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="61" width="120" height="60" as="geometry" />
