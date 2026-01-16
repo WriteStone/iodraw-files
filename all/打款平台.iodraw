@@ -307,7 +307,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-53" value="构造数据库DO，计税，扣减限额" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="493" y="406" width="113" height="53" as="geometry" />
+          <mxGeometry x="496" y="406" width="113" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-55" value="走拒绝逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="935.25" y="284" width="101.75" height="57" as="geometry" />
@@ -319,7 +319,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-63" value="存入数据库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="282" width="108" height="57" as="geometry" />
+          <mxGeometry x="294" y="282" width="97" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.442;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-35" target="ZVIegl60CmivWtuJMpQw-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
