@@ -500,6 +500,9 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-5" value="检查INIT字段，判断子订单状态是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-401" y="403" width="140" height="101" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
