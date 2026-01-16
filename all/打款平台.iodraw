@@ -433,6 +433,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-1" target="8uwG8NnvUMvIKSVQC2_Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="106" width="120" height="60" as="geometry" />
         </mxCell>
