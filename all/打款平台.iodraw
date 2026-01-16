@@ -525,10 +525,10 @@
           <mxGeometry x="-159.5" y="626" width="117.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-14" value="构造ChannelResult格式数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="61" width="120" height="60" as="geometry" />
+          <mxGeometry x="69" y="54" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-16" value="判断响应数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="172.5" width="111" height="83.5" as="geometry" />
+          <mxGeometry x="89" y="166" width="111" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-17" value="若明确失败则重试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="42" y="302" width="120" height="60" as="geometry" />
@@ -537,6 +537,9 @@
           <mxGeometry x="242" y="299" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-2" target="DaG6iroj4ZgLgGwxmFwC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-1" target="DaG6iroj4ZgLgGwxmFwC-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
