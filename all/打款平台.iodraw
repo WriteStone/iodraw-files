@@ -581,8 +581,11 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-8" value="调用updateForLaunch&lt;div&gt;BatchPayment获取乐观锁&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="-66" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="187" width="120" height="60" as="geometry" />
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-9" value="如果乐观锁获取成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="23" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="156" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
