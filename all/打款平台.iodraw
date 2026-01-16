@@ -503,14 +503,23 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-3" value="判断子订单是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-402" y="285" width="129" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-5" target="DaG6iroj4ZgLgGwxmFwC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-5" value="检查INIT字段，判断&lt;div&gt;子订单状态是否合法&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-413" y="391" width="152" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-6" target="DaG6iroj4ZgLgGwxmFwC-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-6" value="更新INIT字段为付款中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-396" y="516" width="118" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-7" target="DaG6iroj4ZgLgGwxmFwC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-7" value="获取渠道码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="621" width="117" height="51" as="geometry" />
+          <mxGeometry x="-395" y="617" width="117" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="根据渠道码构造银行的请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-165" y="58" width="133" height="60" as="geometry" />
