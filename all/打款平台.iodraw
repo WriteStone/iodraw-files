@@ -626,8 +626,14 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-13" value="检查batchPaymentOrders是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="307" width="120" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1JGZZxSJ6SVQ0ocZ8hj6-14" target="1JGZZxSJ6SVQ0ocZ8hj6-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-14" value="更新PaymentBatch状态为&lt;div&gt;PROCESSING&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="416" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1JGZZxSJ6SVQ0ocZ8hj6-15" target="1JGZZxSJ6SVQ0ocZ8hj6-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-15" value="每分钟调用渠道方发起打款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482" y="-68" width="120" height="60" as="geometry" />
