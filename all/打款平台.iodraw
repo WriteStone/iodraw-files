@@ -464,7 +464,7 @@
           <mxGeometry x="412" y="277" width="158" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ooXi8qa0k-Rd_yeaeqGX-2" value="提现操作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="186" y="422" width="66" height="26" as="geometry" />
+          <mxGeometry x="181" y="425" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ooXi8qa0k-Rd_yeaeqGX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.407;entryY=0.976;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-6" target="8uwG8NnvUMvIKSVQC2_Y-5">
           <mxGeometry relative="1" as="geometry" />
