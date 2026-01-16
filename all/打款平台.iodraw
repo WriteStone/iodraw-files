@@ -439,7 +439,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="114" width="99" height="35" as="geometry" />
+          <mxGeometry x="352" y="115" width="99" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-2" value="Accesslayer(路由转发)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="348" y="215" width="107" height="49" as="geometry" />
@@ -502,6 +502,12 @@
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-28" value="对账、税务相关" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="629" y="378" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="413" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="413" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
