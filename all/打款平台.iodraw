@@ -453,6 +453,9 @@
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-3" target="8uwG8NnvUMvIKSVQC2_Y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-3" target="8uwG8NnvUMvIKSVQC2_Y-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-3" value="cashier（收银台）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="321" width="120" height="44" as="geometry" />
         </mxCell>
@@ -461,6 +464,11 @@
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-5" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="436" width="91" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Schedule(定时任务)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="569" width="105" height="47" as="geometry" />
