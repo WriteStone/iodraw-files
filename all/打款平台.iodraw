@@ -259,7 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-29" value="paymentProcessorManager会根据请求类型选择对应类型的处理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="281.5" y="122" width="174.5" height="65" as="geometry" />
+          <mxGeometry x="281.5" y="123.5" width="174.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-34" value="以对私打款处理器举例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="501" y="124" width="72.5" height="29" as="geometry" />
@@ -268,7 +268,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-35" value="检查历史订单是否存在" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="609" y="104" width="138.25" height="104" as="geometry" />
+          <mxGeometry x="609" y="104" width="122" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-36" value="进行数据格式转换并返回" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="81" y="248" width="120" height="59" as="geometry" />
