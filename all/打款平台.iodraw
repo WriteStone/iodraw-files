@@ -530,7 +530,7 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-16" value="判断响应数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="87" y="181" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DaG6iroj4ZgLgGwxmFwC-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-17" value="若明确失败则重试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
