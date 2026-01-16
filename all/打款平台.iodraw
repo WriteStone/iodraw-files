@@ -448,11 +448,11 @@
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-5" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="526" y="282" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="511" y="439" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="398" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="588" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
