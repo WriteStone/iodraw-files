@@ -471,7 +471,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Schedule(定时任务)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="523" width="105" height="47" as="geometry" />
+          <mxGeometry x="250" y="519" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-7" value="paycore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="525" width="94" height="39" as="geometry" />
