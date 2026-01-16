@@ -525,7 +525,7 @@
           <mxGeometry x="-192" y="56" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-9" value="以招商银行为例，调用channelClient.payment()方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="179.25" width="141.25" height="57" as="geometry" />
+          <mxGeometry x="-181.5" y="179.25" width="141.25" height="57" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-10" value="将内部支付请求转换为招商业务参数&lt;div&gt;CommonPaymentReq-&amp;gt;paymentReqDTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-192" y="291" width="138.5" height="61" as="geometry" />
@@ -537,7 +537,7 @@
           <mxGeometry x="-188" y="514" width="139" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-13" value="检查接口调用状态，提取业务层响应参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-159.5" y="626" width="117.5" height="55" as="geometry" />
+          <mxGeometry x="-181.5" y="615" width="117.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-14" value="构造ChannelResult格式数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="54" width="120" height="60" as="geometry" />
@@ -555,6 +555,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.458;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-1" target="DaG6iroj4ZgLgGwxmFwC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.396;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-8" target="DaG6iroj4ZgLgGwxmFwC-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
