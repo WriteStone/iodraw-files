@@ -310,7 +310,7 @@
           <mxGeometry x="496" y="406" width="113" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-55" value="走拒绝逻辑" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="935.25" y="284" width="101.75" height="57" as="geometry" />
+          <mxGeometry x="922" y="285.5" width="101.75" height="57" as="geometry" />
         </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-58" value="不通过" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="771" y="290" width="60" height="30" as="geometry" />
@@ -389,8 +389,8 @@
         <mxCell id="K-0lT4JxIM0uzSb6Fb4m-1" value="通过doSubPaymentTask()定时扫描" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="680" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-N3hYxAu0adNyC8gwBCh-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="484" y="179" width="40" height="26" as="geometry" />
+        <mxCell id="-N3hYxAu0adNyC8gwBCh-1" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="478" y="193" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
