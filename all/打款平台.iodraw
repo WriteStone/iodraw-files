@@ -339,12 +339,6 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-72" value="RequestContext&lt;div&gt;context&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69" y="550.5" width="112" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="_i6eehOWjBYKWhtN5ndL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-75" target="ZVIegl60CmivWtuJMpQw-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-75" value="异步定时检查处理打款需求" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="61" y="771" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZVIegl60CmivWtuJMpQw-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZVIegl60CmivWtuJMpQw-76" target="ZVIegl60CmivWtuJMpQw-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -362,9 +356,6 @@
         </mxCell>
         <mxCell id="_i6eehOWjBYKWhtN5ndL-8" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="786" y="206" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_i6eehOWjBYKWhtN5ndL-10" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="654" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_i6eehOWjBYKWhtN5ndL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.665;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-82" target="ZVIegl60CmivWtuJMpQw-84">
           <mxGeometry relative="1" as="geometry" />
