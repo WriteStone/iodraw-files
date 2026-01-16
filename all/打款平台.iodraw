@@ -506,7 +506,7 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-7" value="获取渠道码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-389" y="629" width="116" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="根据渠道码构造银行的请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
