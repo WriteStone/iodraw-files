@@ -492,10 +492,13 @@
           <mxGeometry x="-403" y="54" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-2" value="通过getPaymentSubOrder()方法构造子订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-403" y="181" width="143" height="75" as="geometry" />
+          <mxGeometry x="-403" y="181" width="127" height="67" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-3" value="判断子订单是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-393" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="-393" y="300" width="117" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="395" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
