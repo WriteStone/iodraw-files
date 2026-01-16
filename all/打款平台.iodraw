@@ -614,11 +614,17 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-10" value="更新sequenceId,totalCount&lt;div&gt;等参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="119.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1JGZZxSJ6SVQ0ocZ8hj6-11" target="1JGZZxSJ6SVQ0ocZ8hj6-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-11" value="batchPaymentOrders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="219" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1JGZZxSJ6SVQ0ocZ8hj6-13" target="1JGZZxSJ6SVQ0ocZ8hj6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-13" value="检查batchPaymentOrders是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="307" width="120" height="81" as="geometry" />
+          <mxGeometry x="289" y="307" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-14" value="更新PaymentBatch状态为&lt;div&gt;PROCESSING&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="416" width="120" height="60" as="geometry" />
