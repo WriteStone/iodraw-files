@@ -509,6 +509,9 @@
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="383" y="413" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-31" value="HTTP Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="172" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
