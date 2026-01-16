@@ -440,7 +440,7 @@
           <mxGeometry x="299" y="239" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-3" value="cashier（收银台）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="349" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-4" value="supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="465" width="120" height="60" as="geometry" />
@@ -449,7 +449,7 @@
           <mxGeometry x="310" y="463" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="363" y="577" width="120" height="60" as="geometry" />
+          <mxGeometry x="312" y="577" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-7" value="paycore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="577" width="120" height="60" as="geometry" />
