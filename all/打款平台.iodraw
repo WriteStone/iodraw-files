@@ -587,7 +587,10 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-10" value="更新sequenceId,totalCount&lt;div&gt;等参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="119.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-11" value="batchPaymentOrders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287" y="219" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="559" y="187" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
