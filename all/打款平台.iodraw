@@ -578,14 +578,17 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-3" value="初始化counters(totalAmount,&lt;div&gt;totalCount,sequenceId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="110" width="128" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1JGZZxSJ6SVQ0ocZ8hj6-4" target="1JGZZxSJ6SVQ0ocZ8hj6-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-4" value="遍历batchContext.orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="57" y="216" width="126" height="60" as="geometry" />
+          <mxGeometry x="57" y="216" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-6" value="判断状态是否合法&lt;div&gt;isPayable()&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="296" width="129" height="86" as="geometry" />
         </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-7" value="构造paymentBatchDetailDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="67" y="416" width="127" height="55" as="geometry" />
+          <mxGeometry x="57" y="412" width="127" height="55" as="geometry" />
         </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-8" value="调用updateForLaunch&lt;div&gt;BatchPayment获取乐观锁&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="-66" width="120" height="60" as="geometry" />
