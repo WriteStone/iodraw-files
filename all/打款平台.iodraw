@@ -522,10 +522,10 @@
           <mxGeometry x="-395" y="617" width="117" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="根据渠道码构造银行的请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-192" y="56" width="133" height="60" as="geometry" />
+          <mxGeometry x="-186.5" y="54" width="126.5" height="57" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-9" value="以招商银行为例，调用channelClient.payment()方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-181.5" y="179.25" width="141.25" height="57" as="geometry" />
+          <mxGeometry x="-186.5" y="176" width="141.25" height="57" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-10" value="将内部支付请求转换为招商业务参数&lt;div&gt;CommonPaymentReq-&amp;gt;paymentReqDTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-192" y="291" width="138.5" height="61" as="geometry" />
