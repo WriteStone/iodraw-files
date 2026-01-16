@@ -492,7 +492,7 @@
           <mxGeometry x="-403" y="54" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-2" value="通过getPaymentSubOrder()方法构造子订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-403" y="181" width="130" height="71" as="geometry" />
+          <mxGeometry x="-403" y="181" width="131" height="63" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-3" value="判断子订单是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-393" y="300" width="117" height="84" as="geometry" />
@@ -535,6 +535,9 @@
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-18" value="否则更新为待查单，只返回流水号，后续调用query（）进行状态查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247" y="306" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.901;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-2" target="DaG6iroj4ZgLgGwxmFwC-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
