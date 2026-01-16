@@ -515,6 +515,9 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-10" value="将内部支付请求转换为招商业务参数&lt;div&gt;CommonPaymentReq-&amp;gt;paymentReqDTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-159.5" y="309" width="138.5" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
