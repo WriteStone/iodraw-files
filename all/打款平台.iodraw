@@ -541,14 +541,20 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-10" value="将内部支付请求转换为招商业务参数&lt;div&gt;CommonPaymentReq-&amp;gt;paymentReqDTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-187" y="278" width="138.5" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-11" target="DaG6iroj4ZgLgGwxmFwC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-11" value="调用callCMB（）方法，发送HTTP请求到招商银行服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-188.62" y="399" width="131.75" height="62" as="geometry" />
+          <mxGeometry x="-184.38" y="398" width="131.75" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-12" target="DaG6iroj4ZgLgGwxmFwC-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-12" value="解析请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-188" y="514" width="139" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-13" value="检查接口调用状态，提取业务层响应参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-181.5" y="615" width="117.5" height="55" as="geometry" />
+          <mxGeometry x="-176.5" y="615" width="117.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-14" value="构造ChannelResult格式数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="69" y="54" width="120" height="60" as="geometry" />
