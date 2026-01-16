@@ -501,7 +501,7 @@
           <mxGeometry x="-403" y="388" width="152" height="98" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-6" value="更新INIT字段为付款中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="519" width="124" height="59" as="geometry" />
+          <mxGeometry x="-387" y="519" width="118" height="54" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-7" value="获取渠道码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-387" y="621" width="123" height="58" as="geometry" />
@@ -516,10 +516,10 @@
           <mxGeometry x="-159.5" y="309" width="138.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-11" value="调用callCMB（）方法，发送HTTP请求到招商银行服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="436" width="120" height="60" as="geometry" />
+          <mxGeometry x="-156" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-12" value="解析请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-156" y="540" width="119" height="50" as="geometry" />
+          <mxGeometry x="-156" y="528" width="119" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-13" value="检查接口调用状态，提取业务层响应参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-159.5" y="634" width="120" height="60" as="geometry" />
