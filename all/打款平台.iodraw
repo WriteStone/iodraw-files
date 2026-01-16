@@ -578,8 +578,8 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-7" value="构造paymentBatchDetailDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="67" y="416" width="127" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508" y="187" width="120" height="60" as="geometry" />
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-8" value="调用updateForLaunch&lt;div&gt;BatchPayment获取乐观锁&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="-66" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
