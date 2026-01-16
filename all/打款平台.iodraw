@@ -430,13 +430,8 @@
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-5" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="433" width="91" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="305" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Schedule(定时任务)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="519" width="105" height="47" as="geometry" />
+          <mxGeometry x="217" y="521" width="105" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-7" value="paycore（记账）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="527" width="94" height="39" as="geometry" />
