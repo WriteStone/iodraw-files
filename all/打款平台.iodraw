@@ -569,8 +569,11 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-3" value="初始化counters(totalAmount,&lt;div&gt;totalCount,sequenceId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="56" y="110" width="128" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-4" value="遍历batchContext.orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="57" y="216" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508" y="187" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
