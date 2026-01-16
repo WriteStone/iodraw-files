@@ -443,10 +443,10 @@
           <mxGeometry x="408" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-4" value="supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="586" y="463" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-5" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="463" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="461" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-6" value="Schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="577" width="120" height="60" as="geometry" />
@@ -458,7 +458,7 @@
           <mxGeometry x="79" y="463" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-9" value="signcenter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="422" y="461" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
