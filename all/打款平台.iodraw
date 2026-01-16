@@ -566,8 +566,8 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-2" value="构建PaymentBatchDO,并为其添加批次信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="23" width="113" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-3" value="初始化counters(totalAmount,totalCount,sequenceId)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="63" y="114" width="259" height="278" as="geometry" />
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-3" value="初始化counters(totalAmount,&lt;div&gt;totalCount,sequenceId)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="114" width="136" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
