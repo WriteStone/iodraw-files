@@ -431,7 +431,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-5" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="436" width="91" height="42" as="geometry" />
+          <mxGeometry x="250" y="433" width="91" height="42" as="geometry" />
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8uwG8NnvUMvIKSVQC2_Y-6">
           <mxGeometry relative="1" as="geometry">
@@ -482,6 +482,9 @@
         </mxCell>
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-32" value="余额查询；渠道查询、绑定关系；提现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="412" y="286" width="158" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ooXi8qa0k-Rd_yeaeqGX-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="179" y="417" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
