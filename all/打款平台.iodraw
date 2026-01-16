@@ -589,8 +589,8 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-38" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-333" y="365" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DaG6iroj4ZgLgGwxmFwC-39" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-316" y="475" width="60" height="30" as="geometry" />
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-39" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="477" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
