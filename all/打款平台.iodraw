@@ -602,8 +602,8 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-16" value="更新version，保证原子性操作成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="17" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="187" width="120" height="60" as="geometry" />
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-17" value="更新订单状态，若失败直接更新，进行回滚操作，若成功或未知则更新为代查单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="115" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
