@@ -564,7 +564,10 @@
           <mxGeometry x="56" y="-66" width="103" height="53" as="geometry" />
         </mxCell>
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-2" value="构建PaymentBatchDO,并为其添加批次信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="33" width="113" height="55" as="geometry" />
+          <mxGeometry x="59" y="23" width="113" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="56" y="114" width="111" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
