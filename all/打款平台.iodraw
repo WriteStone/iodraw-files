@@ -498,13 +498,13 @@
           <mxGeometry x="-398" y="287" width="129" height="83" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-5" value="检查INIT字段，判断子订单状态是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-403" y="388" width="144" height="104" as="geometry" />
+          <mxGeometry x="-403" y="388" width="152" height="98" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-6" value="更新INIT字段为付款中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-387" y="529" width="120" height="60" as="geometry" />
+          <mxGeometry x="-387" y="519" width="124" height="59" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-7" value="获取渠道码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-389" y="629" width="116" height="56" as="geometry" />
+          <mxGeometry x="-387" y="621" width="123" height="58" as="geometry" />
         </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-8" value="根据渠道码构造银行的请求参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-153" y="60" width="128" height="61" as="geometry" />
