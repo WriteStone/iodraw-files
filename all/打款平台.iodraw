@@ -535,6 +535,9 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-9" value="以招商银行为例，调用channelClient.payment()方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-186.5" y="176" width="137.5" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DaG6iroj4ZgLgGwxmFwC-10" target="DaG6iroj4ZgLgGwxmFwC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-10" value="将内部支付请求转换为招商业务参数&lt;div&gt;CommonPaymentReq-&amp;gt;paymentReqDTO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-187" y="278" width="138.5" height="61" as="geometry" />
         </mxCell>
