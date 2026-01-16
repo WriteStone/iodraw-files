@@ -512,6 +512,9 @@
         <mxCell id="DaG6iroj4ZgLgGwxmFwC-9" value="以招商银行为例，调用channelClient.payment()方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-164.5" y="176" width="143" height="67.5" as="geometry" />
         </mxCell>
+        <mxCell id="DaG6iroj4ZgLgGwxmFwC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
