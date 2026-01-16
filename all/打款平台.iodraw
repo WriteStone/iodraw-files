@@ -351,7 +351,7 @@
         <mxCell id="ZVIegl60CmivWtuJMpQw-82" value="subPaymentProcessorManager根据打款类型选择合适的处理器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="663" y="549.5" width="201.5" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="ZVIegl60CmivWtuJMpQw-84" value="以对私打款处理器batchpayTaskProcessor举例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ZVIegl60CmivWtuJMpQw-84" value="以对私打款处理器PersonalBatchPayTaskProcessor举例" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1037" y="553" width="191" height="68" as="geometry" />
         </mxCell>
         <mxCell id="_i6eehOWjBYKWhtN5ndL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZVIegl60CmivWtuJMpQw-12" target="ZVIegl60CmivWtuJMpQw-23">
