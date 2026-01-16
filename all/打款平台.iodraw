@@ -593,6 +593,9 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-13" value="检查batchPaymentOrders是否为空" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="307" width="120" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="187" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
