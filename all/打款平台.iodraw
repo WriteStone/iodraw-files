@@ -512,8 +512,8 @@
         <mxCell id="8uwG8NnvUMvIKSVQC2_Y-31" value="HTTP Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="177" width="85" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-32" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="412" y="286" width="60" height="30" as="geometry" />
+        <mxCell id="8uwG8NnvUMvIKSVQC2_Y-32" value="余额查询；渠道查询、绑定关系；提现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="286" width="158" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
