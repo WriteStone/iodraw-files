@@ -575,8 +575,8 @@
         <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-6" value="判断状态是否合法&lt;div&gt;isPayable()&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59" y="299" width="129" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="442" width="120" height="60" as="geometry" />
+        <mxCell id="1JGZZxSJ6SVQ0ocZ8hj6-7" value="构造paymentBatchDetailDO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="442" width="142" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
