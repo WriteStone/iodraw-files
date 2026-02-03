@@ -28,8 +28,8 @@
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-9" value="支付宝，微信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="226" y="238" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFcIHyT1NDU9YVLhc_eF-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="383" y="334" width="60" height="30" as="geometry" />
+        <mxCell id="cFcIHyT1NDU9YVLhc_eF-12" value="提现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="235" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
