@@ -7,7 +7,7 @@
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-1" value="payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6" y="293" width="89" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="cFcIHyT1NDU9YVLhc_eF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cFcIHyT1NDU9YVLhc_eF-2" value="withdraw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="172" y="291" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-3" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cFcIHyT1NDU9YVLhc_eF-3" target="cFcIHyT1NDU9YVLhc_eF-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cFcIHyT1NDU9YVLhc_eF-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="238" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
