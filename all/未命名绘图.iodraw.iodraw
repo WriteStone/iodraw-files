@@ -11,7 +11,7 @@
           <mxGeometry x="172" y="291" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-3" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88" y="106" width="91" height="46" as="geometry" />
+          <mxGeometry x="89" y="95" width="91" height="46" as="geometry" />
         </mxCell>
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cFcIHyT1NDU9YVLhc_eF-4" target="cFcIHyT1NDU9YVLhc_eF-2">
           <mxGeometry relative="1" as="geometry" />
@@ -20,9 +20,6 @@
           <mxGeometry x="75" y="170" width="111" height="65" as="geometry" />
         </mxCell>
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.36;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cFcIHyT1NDU9YVLhc_eF-4" target="cFcIHyT1NDU9YVLhc_eF-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cFcIHyT1NDU9YVLhc_eF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.532;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cFcIHyT1NDU9YVLhc_eF-3" target="cFcIHyT1NDU9YVLhc_eF-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFcIHyT1NDU9YVLhc_eF-8" value="银行卡" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
