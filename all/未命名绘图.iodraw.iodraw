@@ -10,11 +10,14 @@
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-1" value="定时巡检scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="73" y="91" width="114" height="86" as="geometry" />
         </mxCell>
+        <mxCell id="VlLRK1rj6Fp2JTu2oleH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VlLRK1rj6Fp2JTu2oleH-2" target="VlLRK1rj6Fp2JTu2oleH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-2" value="agent加载smart-monitor skill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="90" width="114" height="88" as="geometry" />
         </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="288" y="294" width="115" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
