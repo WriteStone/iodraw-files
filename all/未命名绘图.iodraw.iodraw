@@ -22,8 +22,8 @@
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.035;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VlLRK1rj6Fp2JTu2oleH-2" target="VlLRK1rj6Fp2JTu2oleH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VlLRK1rj6Fp2JTu2oleH-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="725" width="120" height="60" as="geometry" />
+        <mxCell id="VlLRK1rj6Fp2JTu2oleH-8" value="大模型判断需要建群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="97" y="612" width="122" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
