@@ -31,9 +31,6 @@
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-9" value="调用脚本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="590.5" width="130" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="VlLRK1rj6Fp2JTu2oleH-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="428" y="597" width="127" height="69" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
