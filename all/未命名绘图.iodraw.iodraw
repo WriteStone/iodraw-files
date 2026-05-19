@@ -11,7 +11,10 @@
           <mxGeometry x="73" y="91" width="114" height="86" as="geometry" />
         </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-2" value="agent加载smart-monitor skill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="91" width="114" height="88" as="geometry" />
+          <mxGeometry x="279" y="90" width="114" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="VlLRK1rj6Fp2JTu2oleH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
