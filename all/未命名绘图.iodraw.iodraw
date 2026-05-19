@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-1" value="定时巡检scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8" y="249" width="114" height="86" as="geometry" />
+          <mxGeometry x="3" y="257.5" width="116" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-2" value="agent加载smart-monitor skill" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="248" width="114" height="88" as="geometry" />
+          <mxGeometry x="230" y="248" width="115" height="79" as="geometry" />
         </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-4" value="&lt;br/&gt;    &lt;p data-slate-node=&quot;element&quot;&gt;&lt;span data-xhs-node-propsau=&quot;&amp;quot;500047168&amp;quot;&quot;&gt;调脚本写入存储&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="568" y="246" width="126" height="77" as="geometry" />
