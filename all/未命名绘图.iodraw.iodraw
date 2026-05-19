@@ -23,7 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlLRK1rj6Fp2JTu2oleH-8" value="大模型判断需要建群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="97" y="612" width="122" height="80" as="geometry" />
+          <mxGeometry x="62" y="587" width="122" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VlLRK1rj6Fp2JTu2oleH-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="725" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
